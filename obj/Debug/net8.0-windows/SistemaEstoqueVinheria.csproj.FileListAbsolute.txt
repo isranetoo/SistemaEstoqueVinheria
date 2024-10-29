@@ -1,0 +1,14 @@
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\bin\Debug\net8.0-windows\SistemaEstoqueVinheria.exe
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\bin\Debug\net8.0-windows\SistemaEstoqueVinheria.deps.json
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\bin\Debug\net8.0-windows\SistemaEstoqueVinheria.runtimeconfig.json
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\bin\Debug\net8.0-windows\SistemaEstoqueVinheria.dll
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\bin\Debug\net8.0-windows\SistemaEstoqueVinheria.pdb
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.AssemblyInfoInputs.cache
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.AssemblyInfo.cs
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.csproj.CoreCompileInputs.cache
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.dll
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\refint\SistemaEstoqueVinheria.dll
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.pdb
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\SistemaEstoqueVinheria.genruntimeconfig.cache
+C:\Users\Israel Neto\Desktop\Estoque_vinhedo\SistemaEstoqueVinheria\obj\Debug\net8.0-windows\ref\SistemaEstoqueVinheria.dll
